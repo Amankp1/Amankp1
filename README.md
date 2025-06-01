@@ -14,9 +14,8 @@
 
 ## 🧠 About Me
 
-🎓 **Computer Engineering Student @ Pandit Deendayal Energy University (2021–2025)**  
-📍 Based in Gujarat, India  
-💡 Passionate about AI, NLP, Speech Technology, and solving real-world problems through innovative solutions.
+🎓 **B.Tech Computer Engineering @ Pandit Deendayal Energy University (2021–2025)**  📍 Based in Gujarat, India  
+💡 Passionate about AI, ML, NLP, Speech Technology, and solving real-world problems through innovative solutions.
 
 ---
 
