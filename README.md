@@ -110,8 +110,8 @@
 
 - 🎯 **GATE 2025 Qualified** – Data Science & AI (Score: 452)
 - 🧠 **Paper Presentation** – *Automated Sleep Stage Classification*, ADCIS 2024 @ BITS Pilani (Springer Journal)
-- 🙌 Social Service Internship – Elixir Foundation (Rural Area Survey)
 - 🎨 **Graphic Design Head** – Tattvam: The Sanskrit Club of PDEU
+- 🙌 Social Service Internship – Elixir Foundation (Rural Area Survey)
 
 ---
 
