@@ -79,15 +79,20 @@
 - Real-time fire and smoke detection using OpenCV and CNNs.
 - Integrated image classification and alert systems for safety applications.
 
-### 🏠 [House Price Prediction](https://github.com/Amankp1/House-Prize-Prediction) | [Website](https://github.com/Amankp1/House-Prize-Prediction)
+### 🏠 [House Price Prediction](https://github.com/Amankp1/House-Prize-Prediction) | [Website](https://house-price-prediction-complete.streamlit.app/)
 - Full-stack app using React and Flask to automate exam grading.
 - Utilized BERT for semantic answer matching in theoretical questions.
 - Instant result generation from uploaded exam images.
 
-### 📝 [Exam Paper Checker](https://github.com/Amankp1/Exam-Paper-Checker)
+### 📝 [Exam Paper Checker](https://github.com/Amankp1/Exam-Paper-Checker) | [Website](https://exam-paper-checker-complete.onrender.com/)
 - Full-stack app using React and Flask to automate exam grading.
 - Utilized BERT for semantic answer matching in theoretical questions.
 - Instant result generation from uploaded exam images.
+
+### 📄 [ATS System](https://github.com/Amankp1/ATS-System) | [Website](https://ats-system-complete.onrender.com/)
+- AI-powered ATS for automated resume screening and job matching using Streamlit and FastAPI.
+- Integrated Google Gemini for intelligent resume and job description analysis.
+- Implemented secure user authentication and MongoDB for user and resume management.
 
 ---
 
