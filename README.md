@@ -79,6 +79,11 @@
 - Real-time fire and smoke detection using OpenCV and CNNs.
 - Integrated image classification and alert systems for safety applications.
 
+### 🏠 [House Price Prediction](https://github.com/Amankp1/House-Prize-Prediction) | [Website](https://github.com/Amankp1/House-Prize-Prediction)
+- Full-stack app using React and Flask to automate exam grading.
+- Utilized BERT for semantic answer matching in theoretical questions.
+- Instant result generation from uploaded exam images.
+
 ### 📝 [Exam Paper Checker](https://github.com/Amankp1/Exam-Paper-Checker)
 - Full-stack app using React and Flask to automate exam grading.
 - Utilized BERT for semantic answer matching in theoretical questions.
